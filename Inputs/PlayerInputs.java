@@ -6,7 +6,7 @@ public class PlayerInputs {
 
     protected int getUserInput() {
         System.out.print("Digite seu palpite: ");
-        return Integer.parseInt(myScan.nextLine());
+        return Integer.pars eInt(myScan.nextLine());
     }
 
 }
