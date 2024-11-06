@@ -9,7 +9,8 @@ Projeto esta divido:
 
 Package: Controllers.AlgoritimoController.java = responsavel pela lógica do algoritimo, que herda os inpusts da
 SuperClass PlayerInputs.
+
 Package: Inputs.PlayerInputs = responsavel pelo registro do input do player.
 
-
+Pode ter um pouco de over engineering em um projeto basíco, mas é para testar a orientação a objeto.
 
