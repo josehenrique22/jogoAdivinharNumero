@@ -14,7 +14,7 @@ public class AlgoritimoController extends PlayerInputs{
 
             System.out.println("Número de tentativas restantes: " + numTentativas);
 
-            int inputs = getUserInput(); // Lê a entrada do usuário a cada tentativa
+            int inputs = getUserInput(); // Ler a entrada do usuário a cada tentativa
 
             if (inputs == numRandom) {
                 System.out.println("Parabéns, você acertou o número!" +
