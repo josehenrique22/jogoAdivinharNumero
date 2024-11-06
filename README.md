@@ -12,5 +12,6 @@ SuperClass PlayerInputs.
 
 Package: Inputs.PlayerInputs = responsavel pelo registro do input do player.
 
+Package: src.Game = responsavel pelo executavel.
 Pode ter um pouco de over engineering em um projeto basíco, mas é para testar a orientação a objeto.
 
